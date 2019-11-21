@@ -1,0 +1,13 @@
+C:\Users\Catolica\source\repos\Practica11\Practica11\bin\Debug\Practica11.exe.config
+C:\Users\Catolica\source\repos\Practica11\Practica11\bin\Debug\Practica11.exe
+C:\Users\Catolica\source\repos\Practica11\Practica11\bin\Debug\Practica11.pdb
+C:\Users\Catolica\source\repos\Practica11\Practica11\obj\Debug\Practica11.csprojAssemblyReference.cache
+C:\Users\Catolica\source\repos\Practica11\Practica11\obj\Debug\Practica11.exe
+C:\Users\Catolica\source\repos\Practica11\Practica11\obj\Debug\Practica11.pdb
+C:\Users\Usuario\Desktop\Practica11\Practica11\bin\Debug\Practica11.exe.config
+C:\Users\Usuario\Desktop\Practica11\Practica11\bin\Debug\Practica11.exe
+C:\Users\Usuario\Desktop\Practica11\Practica11\bin\Debug\Practica11.pdb
+C:\Users\Usuario\Desktop\Practica11\Practica11\obj\Debug\Practica11.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica11\Practica11\obj\Debug\Practica11.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica11\Practica11\obj\Debug\Practica11.exe
+C:\Users\Usuario\Desktop\Practica11\Practica11\obj\Debug\Practica11.pdb
